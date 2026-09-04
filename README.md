@@ -1,5 +1,3 @@
-Customer churn analysis using SQL, Python, and Tableau to identify high-risk customer segments and revenue exposure.
-
 # Customer Churn & Retention Analytics
 
 ## Overview
