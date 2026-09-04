@@ -29,12 +29,6 @@ Analyzed 7,043 telecom customer records to identify customer segments with eleva
 - Investigate the elevated churn among fiber-optic customers.
 - Use customer segmentation to target retention campaigns.
 
-## Dashboard
-
-[View the interactive Tableau dashboard](YOUR_TABLEAU_PUBLIC_LINK)
-
-![Customer Churn Dashboard](images/dashboard.png)
-
 ## Project Structure
 
 - `sql/` – SQL analysis queries
